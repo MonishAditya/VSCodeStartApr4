@@ -1,0 +1,3 @@
+public class ps {
+	public static boolean firstRun = true;
+}
